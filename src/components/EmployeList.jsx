@@ -6,6 +6,7 @@ const EmloyeeList = () => {
   const [emploayeeList, setEmployeeList] = useState([]);
   const navigate = useNavigate();
 
+  // added test comment
   useEffect(() => {
     getAllEmployees();
   }, []);
