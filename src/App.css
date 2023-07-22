@@ -1,0 +1,26 @@
+ul{
+  list-style-type: none;
+  display: flex;
+
+}
+li{
+  padding: 10px;
+  font-size: larger;
+}
+.nav-bar{
+  background-color: pink;
+}
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 100px;
+  
+  color:white;
+  
+}
+.home-page{
+  height:100vh;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
